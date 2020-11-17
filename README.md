@@ -8,3 +8,4 @@ student of university moratuwa. Basic C++ programing fundamentals such as ``` fo
 
 ## Screenshots of the game
 
+![Screenshot (512)](https://user-images.githubusercontent.com/37435024/99382612-cbb89380-28f2-11eb-8f45-fd196ebf83bd.png)
